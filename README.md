@@ -3,7 +3,7 @@
 Humans are made of molecules and obey the laws of physics.
 
 ![image](https://github.com/user-attachments/assets/9571f61c-ff84-4d5e-8fbb-ea7d4b80d4d1)
-image from [Neuronal parts list and wiring diagram for a visual system](https://www.nature.com/articles/s41586-024-07981-1)
+image from Paper: [Neuronal parts list and wiring diagram for a visual system](https://www.nature.com/articles/s41586-024-07981-1)
 
 # Brain Neuron
 1. C.elegans

@@ -8,8 +8,9 @@ Image from paper: [Neuronal parts list and wiring diagram for a visual system](h
 # Brain and Neuron
 ## 1. C.elegans
 http://wormweb.org/neuralnet#c=BAG&m=1  
-https://openworm.org/  
-
+https://openworm.org/
+## Drosophila 
+https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2018.00099/full
 
 # AIDD (chemical drug small molecule)
 

@@ -13,6 +13,8 @@ https://openworm.org/
 https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2018.00099/full
 
 # AIDD (chemical drug small molecule)
+Receptor
+Docking
 
 # Anti-Body Discovery
 

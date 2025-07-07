@@ -12,6 +12,10 @@ https://openworm.org/
 ## 2. Drosophila 
 https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2018.00099/full
 
+# Reconstruct
+
+# Inference and functional
+
 # AIDD (chemical drug small molecule)
 Receptor
 Docking

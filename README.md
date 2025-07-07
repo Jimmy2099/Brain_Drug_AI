@@ -16,6 +16,8 @@ https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.201
 
 # Inference and functional
 
+# BCI
+
 # AIDD (chemical drug small molecule)
 Receptor
 Docking

@@ -8,7 +8,7 @@ Image from paper: [Neuronal parts list and wiring diagram for a visual system](h
 # Brain and Neuron
 ## 1. C.elegans
 http://wormweb.org/neuralnet#c=BAG&m=1  
-https://openworm.org/
+https://openworm.org/ 
 https://codex.flywire.ai/
 
 ## 2. Drosophila 

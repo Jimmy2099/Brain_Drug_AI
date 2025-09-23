@@ -12,7 +12,9 @@
 
 #### neuron （神經元）
 
-![neuron.png from wikipedia](images/neuron.png)
+| ![neuron.png from wikipedia link: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Neuron-section.jpg/960px-Neuron-section.jpg ](images/neuron.png) |
+|:---------------------:|
+| Neuron Image from wikipedia |
 
 ##### Size: ~20 um
 

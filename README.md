@@ -26,6 +26,8 @@ Docking
 
 # Wet Experiment
 
+# Study Notes
+- [Neuro](study_notes/Neuro.md)
 
 ####  Notice
 This project is accelerated by AI. Some parts of this project’s code may generate, optimize, or annotate by AI.

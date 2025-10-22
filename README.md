@@ -28,6 +28,7 @@ Docking
 
 # Study Notes
 - [Neuro](study_notes/Neuro.md)
+- [NeuroSystem](study_notes/NeuroSystem.md)
 
 ####  Notice
 This project is accelerated by AI. Some parts of this project’s code may generate, optimize, or annotate by AI.
